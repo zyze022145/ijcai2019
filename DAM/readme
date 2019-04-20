@@ -1,9 +1,0 @@
-We show some visualization results of DAM module in this folder:
-
-1. As shown in 0.png-4.png, we show the direction activation（left） of different query images（right） in the DAM module. 
-Different colors represent that different directions are activated. We can see that, in contrast to the query image, 
-different texture regions in the image are activated, and the direction activation is inconsistent, and the same texture 
-region exhibits overall consistency.
-
-2. As shown in 5.png and 6.png,  regardless of how the affine transformation is performed on the same reference texture image,
-its direction activation is almost unchanged.
