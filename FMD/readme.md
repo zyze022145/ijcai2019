@@ -1,4 +1,4 @@
-<div align=center><img src="FMD.png"/></div>
+<div align=center><img src="FMD.jpg"/></div>
 <p align="center">
   1
 </p>
