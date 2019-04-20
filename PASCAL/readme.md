@@ -13,3 +13,19 @@ ours|37.2|50.2|41.8|35.1|41.1
   Table 1 : Our comparison with other methods on the PASCAL-5 datasets in terms of mean IoU. The setting of experiment is 
   the same as our paper.
 </p>
+
+<div align=center><img src="FMD.jpg"/></div>
+<p align="center">
+  Figure 2: Some qualitative results of our model on FMD datasets.
+</p>
+
+
+| Method      | IoU     | 
+:-:|:-:|
+| OSTC     | 0.216     |
+| OSLSM     | 0.326     |
+| ours     | 0.357     |
+
+<p align="center">
+  Table 2 : Our comparison with other methods on the FMD datasets in terms of mean IoU. The setting of experiment is the same as our paper.
+</p>
