@@ -1,2 +1,5 @@
-<div align=center><img src="1.png" alt="图片描述文字"/></div>
-<center>我是图片标题</center>
+<div align=center><img src="1.png"/></div>
+<p align="center">
+  1
+</p>
+
