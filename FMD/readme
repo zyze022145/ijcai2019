@@ -1,1 +1,3 @@
-results of experiment on FMD
+results of experiment on FMD:
+1. Document IoU.md shows our comparison with other methods on the FMD datasets in terms of mean IoU.
+2.
