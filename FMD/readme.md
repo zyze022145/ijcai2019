@@ -1,6 +1,6 @@
 <div align=center><img src="FMD.jpg"/></div>
 <p align="center">
-  Figure 1: Some qualitative results of our model in FMD datasets.
+  Figure 1: Some qualitative results of our model on FMD datasets.
 </p>
 
 
