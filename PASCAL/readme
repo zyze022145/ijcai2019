@@ -1,2 +1,3 @@
 results of experiment on pascal:
 1. Document IoU.md shows our comparison with other methods on the pascal-5 datasets in terms of mean IoU.
+2. All images in folder PASCAL show qualitative results of our model in PASCAL-5 datasets.
