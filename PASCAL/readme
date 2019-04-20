@@ -1,1 +1,2 @@
-results of experiment on pascal
+results of experiment on pascal:
+1. Document IoU.md shows our comparison with other methods on the pascal-5 datasets in terms of mean IoU.
